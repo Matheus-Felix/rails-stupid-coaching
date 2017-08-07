@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ h1 {
+  font-family: Roboto;
+}
+
+h2 {
+  color: blue;
+}
